@@ -1,4 +1,4 @@
-from bibliopixel import LEDStrip
+from bibliopixel.led import LEDStrip
 import bibliopixel.colors as colors
 from bibliopixel.animation import BaseStripAnim
 
